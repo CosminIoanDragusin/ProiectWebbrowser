@@ -1,0 +1,3 @@
+https://www.google.com/?gws_rd=ssl
+https://translate.google.com/translate?hl=ro&sl=en&u=https://en.wikipedia.org/wiki/Black_rat&prev=search&pto=aue
+https://www.google.com/?gws_rd=ssl

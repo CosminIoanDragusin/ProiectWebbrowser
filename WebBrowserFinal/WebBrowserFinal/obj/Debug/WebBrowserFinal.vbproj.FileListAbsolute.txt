@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.exe.config
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.exe
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.pdb
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.xml
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.Form1.resources
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.Resources.resources
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.exe
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.xml
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.pdb
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.Options.resources
+C:\Users\user\Desktop\web browser\webFinal2\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.History.resources
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.exe.config
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.exe
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.pdb
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\bin\Debug\WebBrowserFinal.xml
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.Form1.resources
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.History.resources
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.Resources.resources
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.Options.resources
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.exe
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.xml
+C:\Users\user\Desktop\DragusinIoanCosminWebBrowserPractica\WebBrowserFinal\WebBrowserFinal\obj\Debug\WebBrowserFinal.pdb
